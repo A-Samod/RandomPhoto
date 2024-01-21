@@ -24,3 +24,5 @@ This Swift application is a simple yet fun project that combines the functionali
 - Xcode 12 or later
 - Swift 5.0 or later
 
+<img width="1437" alt="Screenshot 2024-01-21 at 22 43 10" src="https://github.com/A-Samod/RandomPhoto/assets/71955262/0d24286e-d0b7-4ff2-bb5c-b89824ba62be">
+
